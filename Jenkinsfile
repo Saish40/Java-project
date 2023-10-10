@@ -5,6 +5,7 @@ pipeline {
         stage('GIT checkout') {
             steps {
 
+                
             }
         }
     }
